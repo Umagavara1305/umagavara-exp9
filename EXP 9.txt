@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DevOps Lifecycle</title>
+</head>
+<body>
+  <h2>DevOps Lifecycle</h2>
+  <ul>
+    <li> Plan</li>
+    <li> Develop</li>
+    <li> Build</li>
+    <li> Test</li>
+    <li> Release</li>
+    <li> Deploy</li>
+    <li>Operate</li>
+    <li> Monitor</li>
+  </ul>
+</body>
+</html>
